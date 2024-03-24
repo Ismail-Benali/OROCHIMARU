@@ -1,5 +1,4 @@
-
-![Orochimaru](https://github.com/Ismail-Benali/OROCHIMARU/assets/90980178/be690f1e-4bcf-4023-9771-50dc9b0c3ed3)
+![Orochimaru](https://github.com/Ismail-Benali/OROCHIMARU/assets/90980178/696930a0-e3dc-4452-9169-ea11119293a3)
 
 OSINT Tool Inspired by Orochimaru
 =============================
