@@ -1,3 +1,6 @@
+
+![Orochimaru](https://github.com/Ismail-Benali/OROCHIMARU/assets/90980178/be690f1e-4bcf-4023-9771-50dc9b0c3ed3)
+
 OSINT Tool Inspired by Orochimaru
 =============================
 
@@ -17,5 +20,4 @@ Use this tool to enhance your efforts in collecting and analyzing information fr
 
 *Note:* Please ensure compliance with local and international laws and policies while using this tool.
 
-![NicePng_tattoo-png_140998](https://github.com/Ismail-Benali/OROCHIMARU/assets/90980178/9a664a48-d95f-48cb-8986-c42f135ebbcf)
 
